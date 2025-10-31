@@ -1,4 +1,4 @@
-# Decentralized Freelance Escrow
+<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/87513eb0-cab8-4b26-9372-88439ed05b2d" /># Decentralized Freelance Escrow
 
 ## 📌 Project Description
 The **Decentralized Freelance Escrow** smart contract ensures secure and transparent transactions between freelancers and clients. Funds are locked in the contract until both parties confirm project completion, preventing scams and ensuring trust.
@@ -28,7 +28,8 @@ To create a trustless freelance payment solution where clients and freelancers c
 
 ## 📜 Deployment Details
 **Network:** Core Testnet  
-**Contract Address:** `<paste after deployment>`  
-**Transaction Hash:** `<paste after deployment>`  
+**Contract Address:** `0xD4426da5A9E4124ef021224A8B3b9500F62cFcF1`  
+**Transaction Hash:** `0xfb08e5b588f9c2dda77d29a05ae40e43f732bd93fdea14109e4a76535ea0c464`  
 
-![Transaction Screenshot](<add your screenshot link here>)
+![Transaction Screenshot](<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/83081272-77a9-45f7-a97b-72ffa552f842" />
+)
