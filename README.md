@@ -1,0 +1,34 @@
+# Decentralized Freelance Escrow
+
+## 📌 Project Description
+The **Decentralized Freelance Escrow** smart contract ensures secure and transparent transactions between freelancers and clients. Funds are locked in the contract until both parties confirm project completion, preventing scams and ensuring trust.
+
+## 🚀 Project Vision
+To create a trustless freelance payment solution where clients and freelancers can work together securely without depending on centralized platforms.
+
+## ⚙️ Key Features
+- **Job Creation:** Clients can create and fund jobs.
+- **Secure Escrow:** Funds remain locked until completion confirmation.
+- **Payment Release:** Clients can release payment upon job approval.
+- **Refund Option:** If work is not completed, clients can be refunded.
+- **Full Transparency:** All job details and transactions are stored on-chain.
+
+## 🔑 Core Smart Contract Functions
+1. `createJob(address freelancer)`  
+   Creates a new job and locks funds in the escrow.
+2. `releasePayment(uint jobId)`  
+   Releases payment to the freelancer when the client confirms.
+3. `refundClient(uint jobId)`  
+   Refunds the client if the job is canceled or incomplete.
+
+## 🧭 Future Scope
+- Add a **dispute resolution** mechanism with an arbitrator.
+- Introduce **reputation scoring** for freelancers and clients.
+- Build a **frontend UI** using Web3.js or React for easy interaction.
+
+## 📜 Deployment Details
+**Network:** Core Testnet  
+**Contract Address:** `<paste after deployment>`  
+**Transaction Hash:** `<paste after deployment>`  
+
+![Transaction Screenshot](<add your screenshot link here>)
