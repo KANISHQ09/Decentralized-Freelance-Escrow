@@ -3,7 +3,7 @@
 ## 📌 Description
 The **Decentralized Freelance Escrow** smart contract ensures secure and transparent transactions between freelancers and clients. Funds are locked in the contract until both parties confirm project completion, preventing scams and ensuring trust.
 
-## 🚀 Project Vision
+## 🚀 Vision
 To create a trustless freelance payment solution where clients and freelancers can work together securely without depending on centralized platforms.
 
 ## ⚙️ Key Features
